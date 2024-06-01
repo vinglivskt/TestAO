@@ -19,7 +19,7 @@ class Request(Base):
 
 class Client(Base):
 
-    """Модель для таблицы t_client"""
+    """ Модель для таблицы t_client """
 
     __tablename__ = "t_client"
 
@@ -31,7 +31,7 @@ class Client(Base):
 
 class Area(Base):
 
-    """Модель для таблицы t_area"""
+    """ Модель для таблицы t_area """
 
     __tablename__ = "t_area"
 

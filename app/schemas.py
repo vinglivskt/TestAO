@@ -8,7 +8,6 @@ class SRequestBase(BaseModel):
     area_id: int
 
 
-#
 class SRequest(SRequestBase):
     """ Схема для Request """
 
